@@ -29,5 +29,5 @@ Saat ini saya sedang belajar *Mobile Programming*.
 | 10  | 9 Oktober 2025 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter                   | [Laporan 10](https://drive.google.com/file/d/1aiHvclP_avsBrHouHlhkhYsYZAmU8ktU/view?usp=sharing)           | [Modul 10](https://github.com/vina162/modul10) |
 | 11  | 16 Oktober 2025 | 	Manajemen State dengan GetX                   | [Laporan 11](https://drive.google.com/file/d/1292340WOWg16uUNDvFMGCdUxBnRzWVkY/view?usp=sharing)           | [Modul 11](https://github.com/vina162/modul11) |
 | 12  | 18 Oktober 2025 | 	Ujian Tengah Semester                  | [UTS]( https://drive.google.com/file/d/1fyzV9E6QI4gSpsa_Wjnzp8yAa5KE04mw/view?usp=sharing )           | [Modul UTS](https://github.com/vina162/uts) |
-| 13  | 30 Oktober 2025 | 	Akses Lokasi dengan GPS di Flutter       | [Modul 12]( https://drive.google.com/file/d/1fyzV9E6QI4gSpsa_Wjnzp8yAa5KE04mw/view?usp=sharing )         | [Laporan 12](https://github.com/vina162/uts) |
+| 13  | 30 Oktober 2025 | 	Akses Lokasi dengan GPS di Flutter       | [Laporan 12]( https://drive.google.com/file/d/1fyzV9E6QI4gSpsa_Wjnzp8yAa5KE04mw/view?usp=sharing )         | [Modul 12](https://github.com/vina162/uts) |
 ---
