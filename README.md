@@ -31,5 +31,5 @@ Saat ini saya sedang belajar *Mobile Programming*.
 | 12  | 18 Oktober 2025 | 	Ujian Tengah Semester                  | [UTS]( https://drive.google.com/file/d/1fyzV9E6QI4gSpsa_Wjnzp8yAa5KE04mw/view?usp=sharing )           | [Modul UTS](https://github.com/vina162/uts) |
 | 13  | 30 Oktober 2025 | 	Akses Lokasi dengan GPS di Flutter       | [Laporan 12](https://drive.google.com/file/d/16aiTzynI0kiRd9IjMAGSPkhP1pWXRFlU/view?usp=sharing)         | [Modul 12](https://github.com/vina162/modul12) |
 | 11  | 4 Desember 2025 | 	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API                   | [Laporan 11](https://drive.google.com/file/d/1292340WOWg16uUNDvFMGCdUxBnRzWVkY/view?usp=sharing)           | [Modul 11](https://github.com/vina162/modul11) |
-| 12  | 11 Desember 2025 | 	Ujian Akhir Semester                  | [Laporan UAS]( https://drive.google.com/file/d/11s3afZqTzPS4RUfqwdYUyj1W7Kwninlh/view?usp=sharing )           | [Modul UAS](https://github.com/vina162/uts) |
+| 12  | 11 Desember 2025 | 	Ujian Akhir Semester                  | [Laporan UAS]( https://drive.google.com/file/d/11s3afZqTzPS4RUfqwdYUyj1W7Kwninlh/view?usp=sharing )           | [Modul UAS](https://github.com/vina162/UAS) |
 ---
